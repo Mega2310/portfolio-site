@@ -25,7 +25,7 @@ function App() {
         <p>Front-End Web Developer</p>
       </section>
 
-      {/* About Section */}
+      
       <section id="about" data-aos="fade-up" style={{ padding: '100px 20px', backgroundColor: '#f0f0f0' }}>
         <h2>About Me</h2>
         <p>I’m passionate about learning React and building cool websites!</p>
